@@ -1,6 +1,10 @@
 ### Hi there 👋
 
 <div>
+  ![HeeJeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=anheejeong&show_icons=true&theme=radical)
+</div>
+
+<div>
   <a href="https://www.notion.so/STUDY-e76a990fed8243e1befca2e4b31325ef" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"></a>
 </div>
 
