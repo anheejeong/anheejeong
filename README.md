@@ -4,7 +4,9 @@
   <p>anheejeong</p>
   <p>eyrt6973@naver.com</p>
   <p>KNU CSE</p>
-  <hr>
+  
+  #
+  
   <p>💻 Learn</p>
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -18,12 +20,16 @@
   <a href="https://www.notion.so/STUDY-e76a990fed8243e1befca2e4b31325ef" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"></a>
   <a href="https://velog.io/@eyrt6973" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"></a>
   
-  <hr>
+  #
 
 ![HeeJeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=anheejeong&show_icons=true&theme=onedark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anheejeong&langs_count=10&layout=compact&theme=onedark)]()
 <!--  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=eyrt6973)](https://solved.ac/eyrt6973) -->
   <!-- 백준 골드 달면 풀기 -->
+  
+  #
+  
+  영차영차
   
  </div>
 
