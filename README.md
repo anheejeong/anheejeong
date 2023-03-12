@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-<a href="https://www.notion.so/STUDY-e76a990fed8243e1befca2e4b31325ef" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"></a>
-https://www.notion.so/STUDY-e76a990fed8243e1befca2e4b31325ef
+<div>
+  <a href="https://www.notion.so/STUDY-e76a990fed8243e1befca2e4b31325ef" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"></a>
+</div>
 
 <!--
 **anheejeong/anheejeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
