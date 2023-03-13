@@ -23,7 +23,7 @@
   #
 
 ![HeeJeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=anheejeong&show_icons=true&theme=onedark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anheejeong&langs_count=10&layout=compact&theme=onedark)]()
+[![Top Langs](https://github-readme-stats.sigma-fiv.vercel.app/api/top-langs/?username=anheejeong&langs_count=10&layout=compact&theme=onedark)]()
 <!--  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=eyrt6973)](https://solved.ac/eyrt6973) -->
   <!-- 백준 골드 달면 풀기 -->
   
