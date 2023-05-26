@@ -4,6 +4,7 @@
   <p>anheejeong</p>
   <p>eyrt6973@naver.com</p>
   <p>KNU CSE</p>
+  <p>FULL-STACK</p>
   
   #
   
